@@ -15,7 +15,7 @@ public class dz5 {
                 positiveCoun++;
             }
         }
-        System.out.println("Количество положительных чисел: " + positiveCoun);
+        System.out.println("Колличество положительных чисел: " + positiveCoun);
 
 
     }
